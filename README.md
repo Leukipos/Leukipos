@@ -1,5 +1,5 @@
 # hello - i am Leukipos<br>
-##..i started right now a webDev bootcamp @ neuefische® Hamburg.
+**i started right now a webDev bootcamp @ neuefische® Hamburg.**
 <br>
 what i want to learn..<br>
 [ ] github<br>
