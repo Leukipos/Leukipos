@@ -1,6 +1,6 @@
-# Hello - my name ist LX aka alex aka Leukipos<br>
+# hello - this is Leukipos<br>
 ..i started right now a webDev bootcamp @ neuefische® Hamburg.
 <br>
-![roseButt](https://img.fotocommunity.com/rose-f3d37e3b-681c-4962-bf2f-d749dcb6e47d.jpg?height=200)
+![roseButt](https://img.fotocommunity.com/siggi-the-bug-74b82588-0ce6-40c7-94e3-4a04ab0d80b1.jpg?height=500)
 
 > stay tuned and follow me.. (fuck the white rabbit)
