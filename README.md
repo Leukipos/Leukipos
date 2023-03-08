@@ -18,4 +18,4 @@ what i want to learn..<br>
 ![siggiTheBug](https://img.fotocommunity.com/siggi-the-bug-74b82588-0ce6-40c7-94e3-4a04ab0d80b1.jpg?width=300)<br>
 [go to instagram](https://www.instagram.com/lx_zippel/)
 ---
-> stay tuned and follow me.. (fuck the white rabbit)
+> stay tuned and follow me..
