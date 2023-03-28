@@ -3,10 +3,10 @@
 ---
 what i am learning..<br>
 - [ ] github<br>
-- [ ] markdown<br>
 - [ ] HTML<br>
 - [ ] CSS<br>
 - [ ] Javascript<br>
+- [ ] react<br>
 
 ---
 - 42 years old
