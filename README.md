@@ -13,7 +13,6 @@ what i am learning..<br>
 - 42 years old
 - based in Hamburg
 - Photographer, Electrician and much more
-- one 8-years old boy
 - hungry and passionate<br>
 <img src=https://vrclist.s3.amazonaws.com/worlds_photos/Bradlee101/W:USCSS%20Nostromo;W-TID:1584351835330351104;TID-3.jpg width=500>
 
