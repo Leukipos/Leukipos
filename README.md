@@ -15,7 +15,10 @@ what i am learning..<br>
 - Photographer, Electrician and much more
 - one 8-years old boy
 - hungry and passionate<br>
-![siggiTheBug](https://img.fotocommunity.com/siggi-the-bug-74b82588-0ce6-40c7-94e3-4a04ab0d80b1.jpg?width=300)
+<img src=https://vrclist.s3.amazonaws.com/worlds_photos/Bradlee101/W:USCSS%20Nostromo;W-TID:1584351835330351104;TID-3.jpg width=500>
+
 ---
-[go to instagram](https://www.instagram.com/lx_zippel/)
+
+[INSTAGRAM](https://www.instagram.com/lx_zippel/)
+
 ---
