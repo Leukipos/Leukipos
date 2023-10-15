@@ -1,7 +1,7 @@
 # Hi -my name is Alex and i ...<br>
-**doing the bootcamp @ [neuefische](https://www.neueFische.de/) Hamburg.**
+**learned during the bootcamp @ [neuefische](https://www.neueFische.de/) Hamburg.**
 ---
-what i am learning..<br>
+what i am learned..<br>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png width=80>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817 width=80>
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png width=80>
@@ -10,7 +10,7 @@ what i am learning..<br>
 <img src=https://avatars.githubusercontent.com/u/45120?s width=80>
 
 ---
-- 42 years old
+- 44 years old
 - based in Hamburg
 - Photographer, Electrician and much more
 - hungry and passionate<br>
